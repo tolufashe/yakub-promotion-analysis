@@ -1,0 +1,33 @@
+# Yakub Promotion Analysis - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Data Science
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Environment
+jupyter
+ipykernel
+notebook
+
+# Statistical Analysis
+scipy
+
+# Utilities
+python-dateutil
+pytz
+
+# Development Tools (optional)
+pytest
+black
+flake8
+
+# Model Persistence
+joblib
